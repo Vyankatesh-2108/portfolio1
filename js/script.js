@@ -59,33 +59,33 @@ function unselectMenu(unselectedmenuitem)
     document.getElementById(unselectedmenuitem).style="color:mistyrose;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif";
 }
 // script for load sorce start
-/*
+
 function loadsrc(srcid) {
         switch (srcid) {
-            case "facebook":
-                window.location.href ="";
-                break;
+            //case "facebook":
+              //  window.location.href ="";
+               // break;
             //case "twitter":
               //  window.location.href ="#";
                 //break;
-            case "telegram":
-                window.location.href ="";
-                break;
-            case "whatsapp":
-                window.location.href ="";
-                break;
+            //case "telegram":
+              //  window.location.href ="";
+                //break;
+            //case "whatsapp":
+              //  window.location.href ="";
+                //break;
             case "linkedin":
-                window.location.href ="";
+                window.location.href ="linkedin.com/in/vyankatesh-khetri-55994922b";
                 break;
-            case "instagram":
-                window.location.href ="";
-                break;
+            //case "instagram":
+              //  window.location.href ="";
+                //break;
             case "github":
-                window.location.href = "";
+                window.location.href = "https://github.com/Vyankatesh-2108";
                 break;
-            case "resume":
-                window.location.href = "#";
-                break;
+          //  case "resume":
+           //     window.location.href = "#";
+            //    break;
     };
-}*/
+}
 // script for load sorce end
